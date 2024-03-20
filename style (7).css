@@ -1,0 +1,67 @@
+li {
+  list-style-type:none;
+  text-align:right;
+  display:inline;
+  margin:0px 85px 85px 65px;
+   color:#003FFF;
+   margin-right:2px;
+    height:100px;
+    font-size:12px;
+}
+ hr {
+   margin:5px -30px 5px -30px;
+    color:#000000;
+ }
+  a {
+      text-decoration:none;
+      color:#003FFF;
+   margin:5px -10px 5px 25px;
+  }
+   h2 {
+     color:#FF0000;
+     font-size:9px;
+   }
+    .hone {
+      font-size:12px;
+      text-align:center;
+       margin:90px;
+       margin-top:74px;
+    }
+     .htwo {
+       color:#000000;
+       text-align:center;
+      margin:99px ;
+       
+     }
+      .Button,a {
+        padding:3px 0px 3px 0px;
+        text-align:center;
+         margin:14px;
+         font-size:7px;
+      }
+       .頁尾 {
+         color:rgba(255,255,255,0.6);
+         margin-top:-200px;
+          background:#000000;
+          font-size:10px;
+          text-align:center;
+ margin:259px -96px -9000px -96px;
+  padding:2px;
+       }
+        body {
+          background-color:#FFB400;
+        }
+         .atwo {
+           color:#FF0000;
+           text-align:center;
+         }
+          .atwo2 {
+                text-align:center;
+           color:#FF0000;
+           margin-left:94px;
+           margin-right:-94px;
+            
+          }
+         
+         
+         
